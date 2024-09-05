@@ -1,1 +1,3 @@
 # Library_Management_App
+
+Developed a comprehensive library management application using Flask, Celery, Redis, and Python. The application features dedicated dashboards for librarians and students. Librarians can efficiently manage the library by adding, deleting, and updating books and sections, as well as granting or revoking book access for students. Students can request books, read them online, and provide valuable feedback and ratings. This project showcases my skills in web development, backend processing, and database management, ensuring a seamless user experience for both librarians and students.
